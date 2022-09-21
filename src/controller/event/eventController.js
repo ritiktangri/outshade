@@ -1,4 +1,4 @@
-const eventModel=require('../model/eventModel')
+const eventModel=require('../../model/eventModel')
 // const userModel=require('../model/userModel')
 
 

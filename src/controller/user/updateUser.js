@@ -1,4 +1,4 @@
-const userModel=require('../model/userModel')
+const userModel=require('../../model/userModel')
 
 const updateUser=async(req,res)=>{
     try {

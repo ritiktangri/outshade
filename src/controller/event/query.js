@@ -1,4 +1,4 @@
-const eventModel=require('../model/eventModel')
+const eventModel=require('../../model/eventModel')
 const getEvent=async function(req,res){
     try {
         let query=req.query;
